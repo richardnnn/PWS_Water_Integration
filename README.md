@@ -1,3 +1,7 @@
+---
+typora-root-url: ../PWS_Water_Integration
+---
+
 Public Water System Integration
 ======================
 
@@ -9,6 +13,8 @@ Public Water System Integration
   - Public Potable Water Systems FINAL 06-22-2018_0.csv (<https://data.ca.gov/dataset/drinking-water-public-water-system-information>), which provided water system info.
   - Drinking Water Watch Dataset.xlsx, which provides info for well locations, county primarily served
 
+
+
 ### Uses
 
 - Click a point on map, the map will automatically find out which county that point belongs to, and render all the wells that serve for that county. 
@@ -18,10 +24,8 @@ Public Water System Integration
 
 ### Demo
 
-![demo1](/Users/nyfkxj/ucb_archive/PWS_big_data/PWS_Water_Integration/images/demo1.jpg)
+![demo1](/images/demo1.jpg)
 
+![demo2](/images/demo2.jpg)
 
-
-![demo2](/Users/nyfkxj/ucb_archive/PWS_big_data/PWS_Water_Integration/images/demo2.jpg)
-
-![demo3](/Users/nyfkxj/ucb_archive/PWS_big_data/PWS_Water_Integration/images/demo3.jpg)
+![demo3](/images/demo3.jpg)
