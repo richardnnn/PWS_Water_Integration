@@ -1,7 +1,3 @@
----
-typora-root-url: ../PWS_Water_Integration
----
-
 Public Water System Integration
 ======================
 
@@ -21,6 +17,8 @@ Public Water System Integration
 - Click "Disable Updates" to allow free draggle.
 - Multiple wells in large scale are represented as clusters. Stronger color indicates greater number. Click on the cluster circle to zoom into that cluster. Wells are represented as water drops, click on the water drop to see table of info about that particular well.
 - Full screen control, distance / area measure are available on the upper left side tools.
+
+
 
 ### Demo
 
