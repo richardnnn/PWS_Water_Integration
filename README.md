@@ -27,3 +27,12 @@ Public Water System Integration
 ![demo2](/images/demo2.jpg)
 
 ![demo3](/images/demo3.jpg)
+
+
+
+### Package Versions
+- pandas: 0.24.2 
+- Ipyleaflet: 0.10.1 
+- Ipywidgets: 7.4.2 
+- requests: 2.21.0  
+- Matplotlib: 2.1.2
