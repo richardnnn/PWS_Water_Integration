@@ -14,7 +14,7 @@ Public Water System Integration
 ### Uses
 
 - Click a point on map, the map will automatically find out which county that point belongs to, and render all the wells that serve for that county. 
-- Click "Disable Updates" to allow free draggle.
+- Click "Disable Updates" to allow free drag around the map.
 - Multiple wells in large scale are represented as clusters. Stronger color indicates greater number. Click on the cluster circle to zoom into that cluster. Wells are represented as water drops, click on the water drop to see table of info about that particular well.
 - Full screen control, distance / area measure are available on the upper left side tools.
 
